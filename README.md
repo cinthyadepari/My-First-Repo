@@ -1,5 +1,5 @@
-Nama    : Cinthya Yosephine Depari
+Nama       : Cinthya Yosephine Depari
 
-NPM     : 2106751493
+NPM        : 2106751493
 
-Kelas   : E
+Kelas      : E
